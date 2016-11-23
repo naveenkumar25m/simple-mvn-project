@@ -15,8 +15,7 @@
         <module>simple-maven-common</module>
         <module>simple-maven-app</module>
         <module>simple-maven-app-integration-test</module>
-        <module>simple-maven-app-selenium-test</module>
-    </modules>
+     </modules>
     <dependencyManagement>
         <dependencies>
             <dependency>
