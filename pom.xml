@@ -57,4 +57,11 @@
             </plugins>
         </pluginManagement>
     </build>
+    <distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>jfrog-snapshots</name>
+        <url>http://35.167.153.89:8081/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+    </distributionManagement>
 </project>
